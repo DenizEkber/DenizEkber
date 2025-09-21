@@ -164,16 +164,21 @@ Hi! I'm **Deniz Ekber**, a passionate **C# developer** and **strong junior** ful
 
 ---
 
-🌐 CONNECT WITH THE SPECTER
+## 🌐 **CONNECT WITH THE SPECTER**
+
 <div align="center">
-💻 Professional Network
-Show Image
-Show Image
-🎮 Gaming & Social
-Show Image
-Show Image
-Show Image
-Show Image
+
+### 💻 **Professional Network**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ekber-b6a860275/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denizakbar77@gmail.com)
+
+### 🎮 **Gaming & Social**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spray_olos/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AkberDeniz)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denizekber05/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
+
+---
 
 <table align="center">
 <tr>
@@ -194,7 +199,9 @@ Show Image
   </td>
 </tr>
 </table>
+
 </div>
+
 
 ---
 
