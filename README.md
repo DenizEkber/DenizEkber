@@ -8,7 +8,7 @@
 
 ### *"Get over here!"* - But make it code 💻⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=C%23+Developer+%7C+Strong+Junior;Full-Stack+Web+Applications;.NET+Core+%7C+React+%7C+Laravel;IT+Student+%40+Baku+Engineering+University;Fatality...+but+for+bugs+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=C%23+Code+Ninja+%7C+Strong+Junior;Master+of+Full-Stack+Arts;.NET+Core+%7C+React+%7C+Laravel;Silent+but+Deadly...+Code+Assassin;Shadow+Clone+Jutsu+%3D+Git+Branches;Fatality...+but+for+bugs+%F0%9F%90%9B" alt="Typing SVG" />
 
 </div>
 
