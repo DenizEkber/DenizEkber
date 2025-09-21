@@ -141,7 +141,8 @@ Hi! I'm **Deniz Ekber**, a passionate **full-stack developer** forging powerful 
 ### 🔥 **Contributions This Year**
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=DenizEkber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&card_width=400" />
+<img src="https://github-profile-trophy.vercel.app/?username=DenizEkber&theme=tokyonight&no-frame=true&column=4" />
+
 
 
 </div>
