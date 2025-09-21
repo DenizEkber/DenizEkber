@@ -1,8 +1,8 @@
 <div align="center">
-  
-# 🔥 WELCOME TO THE CYBER DOJO 🔥
 
-<!-- Replace with your banner image URL -->
+# 🦂🔥 WELCOME TO DENIZ'S CYBER DOJO 🔥🦂
+
+<!-- Banner image -->
 <img src="https://your-banner-image-url.gif" alt="Scorpion Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 15px;"/>
 
 ### *"Get over here!"* - But make it code 💻⚡
@@ -16,8 +16,8 @@
 ## 🥷 **ABOUT THE WARRIOR**
 
 <div align="center">
-  
-*Passionate **full-stack developer** on a mission to forge powerful applications that combine creativity with peak performance. Like Scorpion's legendary chains, I connect frontend elegance with backend strength, creating seamless digital experiences that pack a punch.*
+
+Hi! I'm **Deniz Ekber**, a passionate **full-stack developer** forging powerful applications with creativity and precision. Like Scorpion's chains, I connect frontend elegance with backend strength, crafting seamless digital experiences that strike hard and fast.  
 
 🎯 **Mission:** *Building applications that don't just work—they dominate*  
 🔥 **Specialty:** *Mixing artistic creativity with bulletproof code architecture*  
@@ -39,12 +39,20 @@
     <br/><sub><b>C#</b></sub>
   </td>
   <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core"/>
+    <br/><sub><b>.NET Core</b></sub>
+  </td>
+  <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
     <br/><sub><b>React</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/>
     <br/><sub><b>Angular</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+    <br/><sub><b>Node.js</b></sub>
   </td>
   <td align="center" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
@@ -105,9 +113,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spray_olos/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AkberDeniz)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denizekber05/)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
 
 </div>
@@ -118,7 +126,6 @@
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=ffffff"/>
@@ -144,12 +151,10 @@
 
 <div align="center">
 
-> *"Get over here... and let's build something **LEGENDARY** together!"*
+> *"Get over here... and let's build something **LEGENDARY** together!"*  
 > 
-> ### 🔗⚡🔥
-
-*From the depths of the Netherrealm to the heights of cloud computing,*  
-*every line of code is forged with **precision** and **passion**.*
+> *From the depths of the Netherrealm to the heights of cloud computing,*  
+> *every line of code is forged with **precision** and **passion**.*
 
 </div>
 
@@ -159,8 +164,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFD700&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=FFD700&style=for-the-badge&logo=github&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFD700&style=for-the-badge&label=VISITORS)  
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=FFD700&style=for-the-badge&logo=github&label=FOLLOWERS)  
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=FFD700&style=for-the-badge&logo=github&label=TOTAL%20STARS)
 
 </div>
@@ -171,21 +176,11 @@
 
 ### 💀 **"FLAWLESS VICTORY"** 🏆
 
-*Crafted with* 💻 *&* ☕ *— Inspired by the legendary Scorpion*
+*Crafted with* 💻 *&* ☕ *— Inspired by the legendary Scorpion*  
 
 **Thanks for venturing into my digital realm!**  
 🔥 *Check out my pinned repositories to witness the* **FATALITY** *in action* 🔥
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
-
-<!-- 
-TODO: Replace placeholders with your actual information:
-- YOUR_USERNAME: Your GitHub username
-- Banner image URL
-- Social media links
-- Any custom images or GIFs you want to add
--->
