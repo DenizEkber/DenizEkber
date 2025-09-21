@@ -169,36 +169,66 @@ Hi! I'm **Deniz Ekber**, a passionate **C# developer** and **strong junior** ful
 <div align="center">
 
 ### 💻 **Professional Network**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ekber-b6a860275/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denizakbar77@gmail.com)
+
+<a href="https://www.linkedin.com/in/deniz-ekber-b6a860275/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" 
+       alt="LinkedIn" 
+       height="50" 
+       style="margin: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);"
+       onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0, 119, 181, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 4px 15px rgba(0, 119, 181, 0.3)';" />
+</a>
+<a href="mailto:denizakbar77@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" 
+       alt="Gmail" 
+       height="50" 
+       style="margin: 10px; transition: transform 0.3s ease; border-radius: 10px; box-shadow: 0 4px 15px rgba(209, 72, 54, 0.3);"
+       onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(209, 72, 54, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 4px 15px rgba(209, 72, 54, 0.3)';" />
+</a>
 
 ### 🎮 **Gaming & Social**
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spray_olos/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AkberDeniz)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denizekber05/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
+
+<a href="https://www.instagram.com/spray_olos/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40" 
+       alt="Instagram" 
+       height="45" 
+       style="margin: 8px; transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 3px 12px rgba(228, 64, 95, 0.3);"
+       onmouseover="this.style.transform='scale(1.08) translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(228, 64, 95, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 3px 12px rgba(228, 64, 95, 0.3)';" />
+</a>
+<a href="https://www.youtube.com/@AkberDeniz" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=40" 
+       alt="YouTube" 
+       height="45" 
+       style="margin: 8px; transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 3px 12px rgba(255, 0, 0, 0.3);"
+       onmouseover="this.style.transform='scale(1.08) translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(255, 0, 0, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 3px 12px rgba(255, 0, 0, 0.3)';" />
+</a>
+<a href="https://www.facebook.com/denizekber05/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=40" 
+       alt="Facebook" 
+       height="45" 
+       style="margin: 8px; transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 3px 12px rgba(24, 119, 242, 0.3);"
+       onmouseover="this.style.transform='scale(1.08) translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(24, 119, 242, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 3px 12px rgba(24, 119, 242, 0.3)';" />
+</a>
+<a href="https://discord.gg/YOUR_SERVER" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=40" 
+       alt="Discord" 
+       height="45" 
+       style="margin: 8px; transition: transform 0.3s ease; border-radius: 8px; box-shadow: 0 3px 12px rgba(88, 101, 242, 0.3);"
+       onmouseover="this.style.transform='scale(1.08) translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(88, 101, 242, 0.5)';"
+       onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 3px 12px rgba(88, 101, 242, 0.3)';" />
+</a>
 
 ---
 
-<table align="center">
-<tr>
-  <td align="center">
-    <img src="https://img.icons8.com/fluency/48/000000/business-contact.png" width="24" height="24"/>
-    <br/>
-    <strong>Business Inquiries</strong>
-    <br/>
-    <a href="mailto:denizakbar77@gmail.com">denizakbar77@gmail.com</a>
-  </td>
-  <td width="50"></td>
-  <td align="center">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="24" height="24"/>
-    <br/>
-    <strong>Professional Network</strong>
-    <br/>
-    <a href="https://www.linkedin.com/in/deniz-ekber-b6a860275/">Connect on LinkedIn</a>
-  </td>
-</tr>
-</table>
+<p align="center">
+<img src="https://img.icons8.com/nolan/32/lightning-bolt.png"/> 
+<strong>Ready to connect and build something epic together!</strong> 
+<img src="https://img.icons8.com/nolan/32/lightning-bolt.png"/>
+</p>
 
 </div>
 
