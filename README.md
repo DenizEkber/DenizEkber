@@ -141,7 +141,8 @@ Hi! I'm **Deniz Ekber**, a passionate **full-stack developer** forging powerful 
 ### 🔥 **Contributions This Year**
 <div align="center">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DenizEkber&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&area_color=FFD700&area=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DenizEkber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&card_width=400" />
+
 
 </div>
 
