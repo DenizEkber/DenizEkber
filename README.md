@@ -3,7 +3,8 @@
 # 🦂🔥 WELCOME TO DENIZ'S CYBER DOJO 🔥🦂
 
 <!-- Banner image -->
-<img src="https://your-banner-image-url.gif" alt="Scorpion Banner" width="100%" height="200px" style="object-fit: cover; border-radius: 15px;"/>
+![Uploading ChatGPT Image Sep 21, 2025, 11_52_08 AM.png…]()
+
 
 ### *"Get over here!"* - But make it code 💻⚡
 
