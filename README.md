@@ -3,7 +3,8 @@
 # 🦂🔥 WELCOME TO DENIZ'S CYBER DOJO 🔥🦂
 
 <!-- Banner image -->
-<img width="844" height="564" alt="image" src="https://github.com/user-attachments/assets/6df9f27c-bbf9-48b4-bb5d-227f9d1e4836" />
+<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/2cf4bd76-4331-4eda-9bbf-a12b2c281459" />
+
 
 ### *"Get over here!"* - But make it code 💻⚡
 
@@ -213,7 +214,7 @@ Hi! I'm **Deniz Ekber**, a passionate **C# developer** and **strong junior** ful
        onmouseover="this.style.transform='scale(1.08) translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(24, 119, 242, 0.5)';"
        onmouseout="this.style.transform='scale(1) translateY(0px)'; this.style.boxShadow='0 3px 12px rgba(24, 119, 242, 0.3)';" />
 </a>
-<a href="https://discord.gg/YOUR_SERVER" target="_blank">
+<a href="https://discord.gg/neC3kPhPbv" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=40" 
        alt="Discord" 
        height="45" 
