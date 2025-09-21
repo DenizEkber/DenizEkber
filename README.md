@@ -164,9 +164,9 @@ Hi! I'm **Deniz Ekber**, a passionate **full-stack developer** forging powerful 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFD700&style=for-the-badge&label=VISITORS)  
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=FFD700&style=for-the-badge&logo=github&label=FOLLOWERS)  
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=FFD700&style=for-the-badge&logo=github&label=TOTAL%20STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=DenizEkber&color=FFD700&style=for-the-badge&label=VISITORS)  
+![Followers](https://img.shields.io/github/followers/DenizEkber?color=FFD700&style=for-the-badge&logo=github&label=FOLLOWERS)  
+![Stars](https://img.shields.io/github/stars/DenizEkber?color=FFD700&style=for-the-badge&logo=github&label=TOTAL%20STARS)
 
 </div>
 
