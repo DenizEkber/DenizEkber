@@ -126,22 +126,22 @@ Hi! I'm **Deniz Ekber**, a passionate **full-stack developer** forging powerful 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenizEkber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizEkber&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0D1117&stroke=FFD700&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenizEkber&theme=tokyonight&background=0D1117&stroke=FFD700&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700)](https://git.io/streak-stats)
 
 </div>
 
 ### 🔥 **Contributions This Year**
 <div align="center">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&area_color=FFD700&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DenizEkber&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&area_color=FFD700&area=true)
 
 </div>
 
