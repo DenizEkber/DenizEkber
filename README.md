@@ -164,19 +164,36 @@ Hi! I'm **Deniz Ekber**, a passionate **C# developer** and **strong junior** ful
 
 ---
 
-## 🌐 **CONNECT WITH THE SPECTER**
-
+🌐 CONNECT WITH THE SPECTER
 <div align="center">
+💻 Professional Network
+Show Image
+Show Image
+🎮 Gaming & Social
+Show Image
+Show Image
+Show Image
+Show Image
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ekber-b6a860275/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spray_olos/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AkberDeniz)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/denizekber05/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
-
-📧 **For business inquiries:** *[Your Email Here]*  
-💼 **LinkedIn:** *[Add your LinkedIn profile]*
-
+<table align="center">
+<tr>
+  <td align="center">
+    <img src="https://img.icons8.com/fluency/48/000000/business-contact.png" width="24" height="24"/>
+    <br/>
+    <strong>Business Inquiries</strong>
+    <br/>
+    <a href="mailto:denizakbar77@gmail.com">denizakbar77@gmail.com</a>
+  </td>
+  <td width="50"></td>
+  <td align="center">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="24" height="24"/>
+    <br/>
+    <strong>Professional Network</strong>
+    <br/>
+    <a href="https://www.linkedin.com/in/deniz-ekber-b6a860275/">Connect on LinkedIn</a>
+  </td>
+</tr>
+</table>
 </div>
 
 ---
