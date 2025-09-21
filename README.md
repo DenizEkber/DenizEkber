@@ -3,7 +3,8 @@
 # 🦂🔥 WELCOME TO DENIZ'S CYBER DOJO 🔥🦂
 
 <!-- Banner image -->
-![Uploading ChatGPT Image Sep 21, 2025, 11_52_08 AM.png…]()
+<img width="844" height="564" alt="image" src="https://github.com/user-attachments/assets/6df9f27c-bbf9-48b4-bb5d-227f9d1e4836" />
+
 
 
 ### *"Get over here!"* - But make it code 💻⚡
